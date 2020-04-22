@@ -53,4 +53,6 @@ Further improvements:
 - Implement more Image augmentation
 - Testing other Architectures on Resnet
 - Create a webapp for the Dogapp
+<br>
+
 Pytorch Implementation: [link](https://github.com/Lukas-Forst/DeepLearning/tree/master/DogBreed%20Classification)

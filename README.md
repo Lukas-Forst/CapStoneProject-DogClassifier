@@ -1,5 +1,6 @@
 # CapStoneProject-DogClassifier
-Dog Classifier for the Udacity Data Scientist CapStone Project
+Dog Classifier for the Udacity Data Scientist CapStone Project and for the Connecting Medium Blogpost:
+https://medium.com/@lukas.forst48_45317/a-simple-approach-creating-a-dog-breed-classifier-with-resnet-2b39795cd58a
 
 ### Motivation
 Get more Knowledge about Deep Learning and Image classification in a fun project.
